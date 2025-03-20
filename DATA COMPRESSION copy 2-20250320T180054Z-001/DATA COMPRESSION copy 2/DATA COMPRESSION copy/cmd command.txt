@@ -1,0 +1,9 @@
+rujutajoshi@Rujutas-MacBook-Air src % javac wingph/*.java CGZipCompressor/*.java CHuffmanCompressor/*.java CLZWCompressor/*.java CRLECompressor/*.java FileBitIO/*java CHuffmanCompressorExtended/*.java
+
+rujutajoshi@Rujutas-MacBook-Air src % java wingph.Main
+
+
+
+rujutajoshi@Rujutas-MacBook-Air src % find . -name "*.class" -type f -delete
+
+
